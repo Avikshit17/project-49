@@ -1,0 +1,17 @@
+h1{
+    color:chocolate;
+    font-size: 200%;
+    text-decoration: underline;
+}
+body{
+    background-color:rgb(255,244,246)
+}
+.intro{
+    display:flex;
+    justify-content: space-evenly;
+    border-style: groove;
+    margin:70px;
+    background-color: antiquewhite;
+    border-color: coral;
+    font-style: italic;
+}
